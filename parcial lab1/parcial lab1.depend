@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1576070518 source:d:\barela\parcial lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"destino.h"
+	"piloto.h"
+	"vuelo.h"
+
+1576074437 d:\barela\parcial lab1\destino.h
+
+1576067412 d:\barela\parcial lab1\piloto.h
+
+1576073926 d:\barela\parcial lab1\vuelo.h
+	"piloto.h"
+	"destino.h"
+
+1576073878 source:d:\barela\parcial lab1\piloto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"piloto.h"
+
+1576065120 source:d:\barela\parcial lab1\vuelo.c
+
+1576074437 source:d:\barela\parcial lab1\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"destino.h"
+	"piloto.h"
+	"vuelo.h"
+
