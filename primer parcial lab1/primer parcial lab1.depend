@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1574792518 source:c:\users\barela\pictures\gaby anime\primer parcial programacion\primer parcial lab1\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"auto.h"
+	"colores.h"
+	"marcas.h"
+
+1574792518 c:\users\barela\pictures\gaby anime\primer parcial programacion\primer parcial lab1\auto.h
+	"colores.h"
+	"marcas.h"
+
+1574792518 c:\users\barela\pictures\gaby anime\primer parcial programacion\primer parcial lab1\colores.h
+
+1574792518 c:\users\barela\pictures\gaby anime\primer parcial programacion\primer parcial lab1\marcas.h
+
+1574792518 source:c:\users\barela\pictures\gaby anime\primer parcial programacion\primer parcial lab1\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"colores.h"
+
+1574792518 source:c:\users\barela\pictures\gaby anime\primer parcial programacion\primer parcial lab1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+
+1574792518 c:\users\barela\pictures\gaby anime\primer parcial programacion\primer parcial lab1\fecha.h
+
+1576034498 source:c:\users\barela\pictures\gaby anime\primer parcial programacion\primer parcial lab1\informes.c
+	<string.h>
+	<conio.h>
+	"auto.h"
+	"colores.h"
+	"marcas.h"
+	"servicios.h"
+	"trabajos.h"
+	"informes.h"
+
+1574792518 c:\users\barela\pictures\gaby anime\primer parcial programacion\primer parcial lab1\servicios.h
+
+1574792518 c:\users\barela\pictures\gaby anime\primer parcial programacion\primer parcial lab1\trabajos.h
+	"auto.h"
+	"servicios.h"
+	"fecha.h"
+
+1576034249 c:\users\barela\pictures\gaby anime\primer parcial programacion\primer parcial lab1\informes.h
+
+1574792518 source:c:\users\barela\pictures\gaby anime\primer parcial programacion\primer parcial lab1\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"servicios.h"
+
+1574792518 source:c:\users\barela\pictures\gaby anime\primer parcial programacion\primer parcial lab1\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"auto.h"
+	"trabajos.h"
+	"servicios.h"
+	"fecha.h"
+
